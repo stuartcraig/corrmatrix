@@ -1,6 +1,7 @@
 
 cd D:\Dropbox\codesnippets
 adopath + `c(pwd)'
+set scheme isps_health
 
 cap mkdir corrmatrix
 cd corrmatrix
